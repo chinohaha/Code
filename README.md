@@ -1,2 +1,2 @@
 # Code from CS301 class,
-# Program with visual c++
+Program with Visual C++
